@@ -1,6 +1,6 @@
-Unit Tests: PASS
-Build: PASS
-Deployment: COMPLETE
+- Unit Tests: PASS
+- Build: PASS
+- Deployment: COMPLETE
 
 
 <!---
