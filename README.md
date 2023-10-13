@@ -2,7 +2,7 @@
 - Build: PASS
 - Deployment: COMPLETE
 - Unique visitors: 1M+ per day
-- Revenue: 34% incresae since last month
+- Revenue: 34% increase since last month
 
 
 <!---
