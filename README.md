@@ -1,7 +1,7 @@
 - Unit Tests: PASS
 - Build: PASS
 - Deployment: COMPLETE
-- Unique visitors: 1M+ per day
+- Average Daily Visitors: 1M+
 - Revenue: 34% increase since last month
 
 
